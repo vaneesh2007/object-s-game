@@ -1,1 +1,2 @@
-# object-s-game
+# collisionAlgorithm
+Algorithm to detect collision between two objects
